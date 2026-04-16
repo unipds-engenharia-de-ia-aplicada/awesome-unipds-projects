@@ -1,6 +1,6 @@
 # Awesome UNIPDS Projects 🎓
 
-A curated list of original projects built by students of the **[UNIPDS Sofware engineering with Applied AI](https://unipds.com.br/org-erick-wendel/?utm_source=awesomeunipdsprojects&utm_medium=github&utm_term=&utm_content=awesomeunipdsprojects)** postgrad course.
+A curated list of original projects built by students of the **[UNIPDS Software engineering with Applied AI](https://unipds.com.br/org-erick-wendel/?utm_source=awesomeunipdsprojects&utm_medium=github&utm_term=&utm_content=awesomeunipdsprojects)** postgrad course.
 
 > [!IMPORTANT]
 > This is a showcase of **original student work**. Projects inspired by course concepts are welcome, but must be brand new creations — not copies of exercises demonstrated in class.
