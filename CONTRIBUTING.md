@@ -1,5 +1,7 @@
 # Contributing — How to Submit Your Project
 
+> 🌐 Language / Idioma: [English](./CONTRIBUTING.md) | [Português (BR)](./CONTRIBUTING.pt-br.md)
+
 ## Requirements
 
 - The project must be your **own original work**.
