@@ -69,6 +69,7 @@ Web applications and browser-based experiences powered by machine learning or AI
 - [Biaginibe/ML-nextjs-board-game](https://github.com/Biaginibe/ML-nextjs-board-game) `📇` `🏠` – Board game recommendation system using TensorFlow.js for server-side machine learning with Next.js. **by [@Biaginibe](https://github.com/Biaginibe)**
 - [DiogoOrdine/game-eclipse-ai-agent](https://github.com/DiogoOrdine/game-eclipse-ai-agent) `📇` `🏠` – Adaptation of the Eclipse game integrating a YOLOv5n neural network running with TensorFlow.js inside a Web Worker. **by [@DiogoOrdine](https://github.com/DiogoOrdine)**
 - [Douglas-sm/game-flapbird](https://github.com/Douglas-sm/game-flapbird) `📇` `🏠` – Pixel art Flappy Bird game with an AI that trains itself in the browser using Canvas 2D and TensorFlow.js. **by [@Douglas-sm](https://github.com/Douglas-sm)**
+- [SyanCS/the-speakeasy-chatbot](https://github.com/SyanCS/the-speakeasy-chatbot) `📇` `🏠` – 1920s barkeep chatbot that runs fully in-browser on Chrome's on-device Gemini Nano (Prompt API) — multimodal cocktail suggestions, substitutions, scaling, and drink fixes with no backend or API keys. **by [@SyanCS](https://github.com/SyanCS)**
 
 ---
 
