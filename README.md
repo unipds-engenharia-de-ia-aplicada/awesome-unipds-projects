@@ -1,5 +1,7 @@
 # Awesome UNIPDS Projects 🎓
 
+> 🌐 Language / Idioma: [English](./README.md) | [Português (BR)](./README.pt-br.md)
+
 A curated list of original projects built by students of the **[UNIPDS Software engineering with Applied AI](https://unipds.com.br/org-erick-wendel/?utm_source=awesomeunipdsprojects&utm_medium=github&utm_term=&utm_content=awesomeunipdsprojects)** postgrad course.
 
 > [!IMPORTANT]
@@ -31,6 +33,7 @@ Want to add your own? See [CONTRIBUTING.md](CONTRIBUTING.md).
 - `🦀` – Rust
 - `#️⃣` – C#
 - `☕` – Java
+- `❓` – Add yours
 
 **Scope**
 - `☁️` – Calls external / cloud APIs
