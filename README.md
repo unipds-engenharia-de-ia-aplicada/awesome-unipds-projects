@@ -87,8 +87,7 @@ Projects that connect services, automate workflows, or react to events.
 CLIs, libraries, helpers, and developer tools powered by AI.
 
 <!-- Add your project here. See CONTRIBUTING.md for the entry format. -->
-*No projects yet — be the first to submit one!*
-
+- [ElizioMartins/projeto-00-ibge-tensores](https://github.com/ElizioMartins/projeto-00-ibge-tensores) `📇` `🏠` – Preditor de População usando dados do IBGE e Machine Learning. **by [@ElizioMartins](https://github.com/ElizioMartins)**
 ---
 
 ### 📦 Other
