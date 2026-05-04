@@ -57,8 +57,7 @@ MCP servers that extend AI assistants with new tools and capabilities.
 
 Autonomous agents that accomplish multi-step tasks using LLMs.
 
-<!-- Add your project here. See CONTRIBUTING.md for the entry format. -->
-*No projects yet — be the first to submit one!*
+- [SyanCS/pokemon-training-center](https://github.com/SyanCS/pokemon-training-center) `📇` `🔗` – AI scheduling assistant that classifies natural-language intents via LangGraph + OpenRouter to manage Pokemon lesson enrollments, bookings, and recommendations. **by [@SyanCS](https://github.com/SyanCS)**
 
 ---
 
