@@ -49,7 +49,7 @@ Want to add your own? See [CONTRIBUTING.md](CONTRIBUTING.md).
 MCP servers that extend AI assistants with new tools and capabilities.
 
 <!-- Add your project here. See CONTRIBUTING.md for the entry format. -->
-[alvesribeirof/architecture-analysis-mcp](https://github.com/alvesribeirof/architecture-analysis-mcp.git) #️⃣ 🔗 - Servidor MCP para análise arquitetural de código com foco em SOLID, Design Patterns e feedback imediato ao desenvolvedor. **by @alvesribeirof (https://github.com/alvesribeirof)**
+- [alvesribeirof/architecture-analysis-mcp](https://github.com/alvesribeirof/architecture-analysis-mcp) `#️⃣` `🔗` – Servidor MCP para análise arquitetural de código com foco em SOLID, Design Patterns e feedback imediato ao desenvolvedor. **by [@alvesribeirof](https://github.com/alvesribeirof)**
 
 ---
 
