@@ -83,7 +83,7 @@ Projects that connect services, automate workflows, or react to events.
 
 - [mjunior/whatsapp-ai-pix-agent](https://github.com/mjunior/whatsapp-ai-pix-agent) `📇` `🔗` – An AI agent that charges my wife via PIX when she asks for favors on WhatsApp. **by [@mjunior](https://github.com/mjunior)**
 
-
+- [iran-gregorio/project-aegis](https://github.com/iran-gregorio/project-aegis) `📇` `🔗` - An intelligent chatbot designed to analyze sentiment and handle aggression on WhatsApp. ** by [@iran-gregorio](https://github.com/iran-gregorio)**
 
 ---
 
