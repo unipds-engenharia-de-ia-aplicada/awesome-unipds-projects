@@ -51,6 +51,8 @@ MCP servers that extend AI assistants with new tools and capabilities.
 <!-- Add your project here. See CONTRIBUTING.md for the entry format. -->
 - [alvesribeirof/architecture-analysis-mcp](https://github.com/alvesribeirof/architecture-analysis-mcp) `#️⃣` `🔗` – MCP server for architectural code analysis focusing on SOLID principles, Design Patterns, and immediate feedback to the developer. **by [@alvesribeirof](https://github.com/alvesribeirof)**
 
+- [s3b4hjr/philosophy-mcp](https://github.com/s3b4hjr/philosophy-mcp) `🐍` `☁️` - MCP server for a multilingual philosophy corpus — glossary, syntheses, thinker profiles, and articles in Portuguese, English, and Spanish. **by [@s3b4hjr](https://github.com/s3b4hjr)**
+
 ---
 
 ### 🤖 AI Agents
