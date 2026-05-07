@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/unipds-engenharia-de-ia-aplicada-awesome-unipds-projects-badge.png)](https://mseep.ai/app/unipds-engenharia-de-ia-aplicada-awesome-unipds-projects)
+
 # Awesome UNIPDS Projects 🎓
 
 A curated list of original projects built by students of the **[UNIPDS Software engineering with Applied AI](https://unipds.com.br/org-erick-wendel/?utm_source=awesomeunipdsprojects&utm_medium=github&utm_term=&utm_content=awesomeunipdsprojects)** postgrad course.
