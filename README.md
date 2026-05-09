@@ -95,6 +95,7 @@ CLIs, libraries, helpers, and developer tools powered by AI.
 
 <!-- Add your project here. See CONTRIBUTING.md for the entry format. -->
 - [ElizioMartins/projeto-00-ibge-tensores](https://github.com/ElizioMartins/projeto-00-ibge-tensores) `📇` `🏠` – Population Predictor using IBGE demographic data and Machine Learning. **by [@ElizioMartins](https://github.com/ElizioMartins)**
+- [ftonato/auris](https://github.com/ftonato/auris) `📇` `☁️` – Production-grade Node.js RAG system with hybrid retrieval, pluggable adapters, and OpenTelemetry tracing. **by [@ftonato](https://github.com/ftonato)**
 ---
 
 ### 📦 Other
