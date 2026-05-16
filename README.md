@@ -72,7 +72,7 @@ Web applications and browser-based experiences powered by machine learning or AI
 - [SyanCS/the-speakeasy-chatbot](https://github.com/SyanCS/the-speakeasy-chatbot) `📇` `🏠` – 1920s barkeep chatbot that runs fully in-browser on Chrome's on-device Gemini Nano (Prompt API) — multimodal cocktail suggestions, substitutions, scaling, and drink fixes with no backend or API keys. **by [@SyanCS](https://github.com/SyanCS)**
 - [SyanCS/dr_nala_breed_recommendation](https://github.com/SyanCS/dr_nala_breed_recommendation) `📇` `🏠` – AI-first dog breed recommendation app that trains a TensorFlow compatibility classifier, persists model artifacts in PostgreSQL, and serves ranked recommendations from a browser web worker with a rule-based fallback. **by [@SyanCS](https://github.com/SyanCS)**
 - [thabata-marchi/portuguese-alphabet-game](https://github.com/thabata-marchi/portuguese-alphabet-game) `📇` `🏠` – Pre-literacy educational game for children that teaches the Portuguese alphabet using voice recognition and adaptive AI. **by [@thabata-marchi](https://github.com/thabata-marchi)**
-- [lgfauth/truco-de-malandro](https://github.com/lgfauth/truco-de-malandro) `🐍` & `📇` `🏠` – Online Paulista Truco game against AI. You can play against the AI and watch the AI training in real time. [Line demo](). **by [@lgfauth](https://github.com/lgfauth)**
+- [lgfauth/truco-de-malandro](https://github.com/lgfauth/truco-de-malandro) `🐍` & `📇` `🏠` – Online Paulista Truco game against AI. You can play against the AI and watch the AI training in real time. [Line demo](https://truco-malandro.up.railway.app). **by [@lgfauth](https://github.com/lgfauth)**
 
 
 ---
