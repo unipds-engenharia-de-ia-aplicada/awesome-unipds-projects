@@ -81,6 +81,7 @@ Web applications and browser-based experiences powered by machine learning or AI
 - [thabata-marchi/portuguese-alphabet-game](https://github.com/thabata-marchi/portuguese-alphabet-game) `📇` `🏠` – Pre-literacy educational game for children that teaches the Portuguese alphabet using voice recognition and adaptive AI. **by [@thabata-marchi](https://github.com/thabata-marchi)**
 - [wsantos-ai/classificador-socioeconomico](https://github.com/wsantos-ai/Classificador-Socioeconomico) `📇` `🏠` – Social class classifier neural network trained and executed entirely in the browser using TensorFlow.js, predicting socioeconomic tiers (A–E) based on user-provided attributes. [🌐 Live demo](https://ai-engineer-unipds.onrender.com/) **by [@wsantos-ai](https://github.com/wsantos-ai)**
 - [wsantos-ai/GitHub-PII-Scanner](https://github.com/wsantos-ai/GitHub-PII-Scanner) `📇` `🏠` – Web tool for static analysis of GitHub repositories to detect exposure of personal data (PII) and sensitive credentials in source code.  [🌐 Live demo](https://git-hub-pii-scanner.vercel.app/) **by [@wsantos-ai](https://github.com/wsantos-ai)**
+- [lgfauth/truco-de-malandro](https://github.com/lgfauth/truco-de-malandro) `🐍` & `📇` `🏠` – Online Paulista Truco game against AI. You can play against the AI and watch the AI training in real time. [Line demo](https://truco-malandro.up.railway.app). **by [@lgfauth](https://github.com/lgfauth)**
 
 ---
 
