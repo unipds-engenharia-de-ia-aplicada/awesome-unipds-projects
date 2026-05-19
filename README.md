@@ -59,6 +59,7 @@ MCP servers that extend AI assistants with new tools and capabilities.
 
 Autonomous agents that accomplish multi-step tasks using LLMs.
 
+- [JeisonSilva/AtendimentoConsultasMedicas](https://github.com/JeisonSilva/AtendimentoConsultasMedicas) `📇` `☁️` `🔗` – Multi-agent LangGraph chatbot that guides patients through medical appointment scheduling, lookup, and cancellation, with session and booking persistence via PostgreSQL. **by [@JeisonSilva](https://github.com/JeisonSilva)**
 - [SyanCS/pokemon-training-center](https://github.com/SyanCS/pokemon-training-center) `📇` `🔗` – AI scheduling assistant that classifies natural-language intents via LangGraph + OpenRouter to manage Pokemon lesson enrollments, bookings, and recommendations. **by [@SyanCS](https://github.com/SyanCS)**
 - [SyanCS/alvorada_real_estate](https://github.com/SyanCS/alvorada_real_estate) `📇` `🔗` – Real estate research platform with three LangGraph pipelines for feature extraction from notes, natural-language property ranking, and Neo4j GraphRAG similarity search. **by [@SyanCS](https://github.com/SyanCS)**
 - [matheusmschaffer/entrevistador-implacavel](https://github.com/matheusmschaffer/entrevistador-implacavel) `TypeScript` `AI Agent` – LangGraph agent that conducts job interviews with four distinct personalities, evaluates answers silently, and delivers dramatic feedback. **by [@matheusmschaffer](https://github.com/matheusmschaffer)**
