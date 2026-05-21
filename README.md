@@ -116,6 +116,7 @@ CLIs, libraries, helpers, and developer tools powered by AI.
 - [ftuyama/scroll-closing-your-eyes](https://github.com/ftuyama/scroll-closing-your-eyes) `🐍` `🏠` – Hands-free scrolling driven by eye closure (left eye up, right eye down) using the webcam, MediaPipe Face Landmarker, and PyAutoGUI, with blink filtering and “look straight” gating. **by [@ftuyama](https://github.com/ftuyama)**
 - [JeisonSilva/chat-document-response](https://github.com/JeisonSilva/chat-document-response) `📇` `☁️` `🔗` – RAG pipeline that ingests PDFs into Neo4j using local HuggingFace embeddings and answers natural-language questions via OpenRouter LLMs. **by [@JeisonSilva](https://github.com/JeisonSilva)**
 - [Brunoolliveira1993/code-review-ai](https://github.com/Brunoolliveira1993/code-review-ai) `📇` `🏠` - Analyzes GitHub Pull Requests,analyzes GitLab and GitLab Merge Requests, collects the PR/MR or commit diff, sends the code to AI via OpenRouter, and displays found issues and suggestions **by [@Brunoolliveira1993](https://github.com/Brunoolliveira1993)**
+- [etrapp/youtube-comments-analyzer](https://github.com/etrapp/youtube-comments-analyzer) `🐍` `🔗` – A tool for analyzing YouTube video satisfaction through comments using MCP, RAG, LLM. **by [@etrapp](https://github.com/etrapp)**
 ---
 
 ### 📦 Other
