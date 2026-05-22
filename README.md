@@ -123,7 +123,7 @@ CLIs, libraries, helpers, and developer tools powered by AI.
 Anything that doesn't fit neatly into the categories above.
 
 <!-- Add your project here. See CONTRIBUTING.md for the entry format. -->
-*No projects yet — be the first to submit one!*
+- [L1134/safesteps-mozambique](https://github.com/L1134/safesteps-mozambique) `📇` `☁️` `🔗` – Offline-first Flutter app delivering child-safe explosive risk education (EORE) for UNICEF Mozambique, with multilingual support (PT/Swahili/Makhuwa/Makonde), on-device SQLite, gamified lessons, and a humanitarian analytics dashboard. **by [@L1134](https://github.com/L1134)**
 
 ---
 
