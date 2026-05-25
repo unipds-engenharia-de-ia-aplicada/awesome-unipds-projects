@@ -68,6 +68,7 @@ Autonomous agents that accomplish multi-step tasks using LLMs.
 - [matheusmschaffer/entrevistador-implacavel](https://github.com/matheusmschaffer/entrevistador-implacavel) `TypeScript` `AI Agent` – LangGraph agent that conducts job interviews with four distinct personalities, evaluates answers silently, and delivers dramatic feedback. **by [@matheusmschaffer](https://github.com/matheusmschaffer)**
 - [MarceloSoiber/credit-card-fraud-detection](https://github.com/MarceloSoiber/credit-card-fraud-detection) `🐍` `🔗` – Local credit card fraud detection platform with FastAPI, PostgreSQL, Docker, a web dashboard, model training workflows, sequence-based ML inference, transaction import, risk scoring, and optional LLM-powered fraud analysis. **by [@MarceloSoiber](https://github.com/MarceloSoiber)**
 - [CelIA](https://github.com/karendcs/CELIA) — AI agent for intelligent Excel spreadsheet querying using local RAG architecture with Ollama, ChromaDB and fully local processing. **by [@karendcs](https://github.com/karendcs/CELIA)**
+- [odairmichaelbendotti/code-sheriff](https://github.com/odairmichaelbendotti/code-sheriff) `📇` `☁️` – AI agent that connects to GitHub, automatically fetches open Pull Requests, and analyzes them in real time to detect security vulnerabilities, performance bottlenecks, and technical debt, providing intelligent fix suggestions before they reach production. **by [@odairmichaelbendotti](https://github.com/odairmichaelbendotti)**
   
 ---
 
@@ -91,6 +92,10 @@ Web applications and browser-based experiences powered by machine learning or AI
 - [giovaninogueira/fruit-ninja-robot](https://github.com/giovaninogueira/fruit-ninja-robot) – Interactive Fruit Ninja game with real-time fruit classification using YOLOv8 and ONNX running in the browser. **by [@giovaninogueira](https://github.com/giovaninogueira)**
 - [giovaninogueira/recommendation-anime](https://github.com/giovaninogueira/recommendation-anime) – Anime recommendation system using neural networks that learns user taste profiles and suggests new titles. Built with NestJS, TensorFlow.js and PostgreSQL. **by [@giovaninogueira](https://github.com/giovaninogueira)**
 - [giovaninogueira/doom-rag](https://github.com/giovaninogueira/doom-rag) – RAG system built over the DOOM universe lore, from the classic 1993 trilogy to The Dark Ages. Ask questions in natural language and get answers grounded in official lore using Neo4j graph database and Gemini. **by [@giovaninogueira](https://github.com/giovaninogueira)**
+- [kauanevieira/cat-care-recommender](https://github.com/kauanevieira/cat-care-recommender) – A recommendation system for cat care and products that combines a neural network (TensorFlow.js) with vector search (ChromaDB) to generate personalized suggestions based on the pet's profile. **by [@kauanevieira](https://github.com/kauanevieira)**
+- [kauanevieira/neuro-pet-ai](https://github.com/kauanevieira/neuro-pet-ai) – An evolutionary smart assistant for pets, built with React and Chrome's experimental Web AI. The project demonstrates advanced artificial intelligence concepts running entirely in the browser, with no backend and no calls to external APIs. **by [@kauanevieira](https://github.com/kauanevieira)**
+- [kauanevieira/win-game](https://github.com/kauanevieira/win-game) – This project was developed as part of a graduate program in Software Engineering with a focus on AI applications, specifically exploring single-client architecture, asynchronous processing using Web Workers, and in-browser neural network inference with TensorFlow.js and a YOLO model adapted for web execution. **by [@kauanevieira](https://github.com/kauanevieira)**
+
 
 ---
 
@@ -117,6 +122,7 @@ CLIs, libraries, helpers, and developer tools powered by AI.
 - [ftuyama/scroll-closing-your-eyes](https://github.com/ftuyama/scroll-closing-your-eyes) `🐍` `🏠` – Hands-free scrolling driven by eye closure (left eye up, right eye down) using the webcam, MediaPipe Face Landmarker, and PyAutoGUI, with blink filtering and “look straight” gating. **by [@ftuyama](https://github.com/ftuyama)**
 - [JeisonSilva/chat-document-response](https://github.com/JeisonSilva/chat-document-response) `📇` `☁️` `🔗` – RAG pipeline that ingests PDFs into Neo4j using local HuggingFace embeddings and answers natural-language questions via OpenRouter LLMs. **by [@JeisonSilva](https://github.com/JeisonSilva)**
 - [Brunoolliveira1993/code-review-ai](https://github.com/Brunoolliveira1993/code-review-ai) `📇` `🏠` - Analyzes GitHub Pull Requests,analyzes GitLab and GitLab Merge Requests, collects the PR/MR or commit diff, sends the code to AI via OpenRouter, and displays found issues and suggestions **by [@Brunoolliveira1993](https://github.com/Brunoolliveira1993)**
+- [etrapp/youtube-comments-analyzer](https://github.com/etrapp/youtube-comments-analyzer) `🐍` `🔗` – A tool for analyzing YouTube video satisfaction through comments using MCP, RAG, LLM. **by [@etrapp](https://github.com/etrapp)**
 ---
 
 ### 📦 Other
