@@ -64,6 +64,7 @@ MCP servers that extend AI assistants with new tools and capabilities.
 
 Autonomous agents that accomplish multi-step tasks using LLMs.
 
+- [elimarcavalli/deile](https://github.com/elimarcavalli/deile) `🐍` `☁️` `🔗` – Autonomous multi-provider AI software-engineering agent that monitors GitHub and GitLab issues, refines and decomposes them, implements features in isolated worktrees, and opens reviewed pull requests with no human intervention. **by [@elimarcavalli](https://github.com/elimarcavalli)**
 - [JeisonSilva/AtendimentoConsultasMedicas](https://github.com/JeisonSilva/AtendimentoConsultasMedicas) `📇` `☁️` `🔗` – Multi-agent LangGraph chatbot that guides patients through medical appointment scheduling, lookup, and cancellation, with session and booking persistence via PostgreSQL. **by [@JeisonSilva](https://github.com/JeisonSilva)**
 - [SyanCS/pokemon-training-center](https://github.com/SyanCS/pokemon-training-center) `📇` `🔗` – AI scheduling assistant that classifies natural-language intents via LangGraph + OpenRouter to manage Pokemon lesson enrollments, bookings, and recommendations. **by [@SyanCS](https://github.com/SyanCS)**
 - [SyanCS/alvorada_real_estate](https://github.com/SyanCS/alvorada_real_estate) `📇` `🔗` – Real estate research platform with three LangGraph pipelines for feature extraction from notes, natural-language property ranking, and Neo4j GraphRAG similarity search. **by [@SyanCS](https://github.com/SyanCS)**
@@ -107,6 +108,8 @@ Web applications and browser-based experiences powered by machine learning or AI
 Projects that connect services, automate workflows, or react to events.
 
 - [barateza/dubweave](https://github.com/barateza/dubweave) `🐍` `🏠` `🔗` – Complete and local video dubbing pipeline for Brazilian Portuguese with GPU acceleration. **by [@barateza](https://github.com/barateza)**
+
+- [elimarcavalli/deilebot](https://github.com/elimarcavalli/deilebot) `🐍` `☁️` `🔗` – Provider-agnostic messaging runtime that bridges Discord, Telegram, WhatsApp and Instagram to the DEILE agent, managing the full message lifecycle: identity, permissions, rate limiting, intent classification and persona routing. **by [@elimarcavalli](https://github.com/elimarcavalli)**
 
 - [mjunior/whatsapp-ai-pix-agent](https://github.com/mjunior/whatsapp-ai-pix-agent) `📇` `🔗` – An AI agent that charges my wife via PIX when she asks for favors on WhatsApp. **by [@mjunior](https://github.com/mjunior)**
 
