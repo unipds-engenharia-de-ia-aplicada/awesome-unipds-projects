@@ -71,6 +71,7 @@ Autonomous agents that accomplish multi-step tasks using LLMs.
 - [MarceloSoiber/credit-card-fraud-detection](https://github.com/MarceloSoiber/credit-card-fraud-detection) `🐍` `🔗` – Local credit card fraud detection platform with FastAPI, PostgreSQL, Docker, a web dashboard, model training workflows, sequence-based ML inference, transaction import, risk scoring, and optional LLM-powered fraud analysis. **by [@MarceloSoiber](https://github.com/MarceloSoiber)**
 - [CelIA](https://github.com/karendcs/CELIA) — AI agent for intelligent Excel spreadsheet querying using local RAG architecture with Ollama, ChromaDB and fully local processing. **by [@karendcs](https://github.com/karendcs/CELIA)**
 - [odairmichaelbendotti/code-sheriff](https://github.com/odairmichaelbendotti/code-sheriff) `📇` `☁️` – AI agent that connects to GitHub, automatically fetches open Pull Requests, and analyzes them in real time to detect security vulnerabilities, performance bottlenecks, and technical debt, providing intelligent fix suggestions before they reach production. **by [@odairmichaelbendotti](https://github.com/odairmichaelbendotti)**
+- [lsilveirab39/bot-embaixador](https://github.com/lsilveirab39/bot-embaixador) `📇` `☁️` `🔗` – Educational Discord agent that answers student questions grounded in course materials via a LangGraph RAG pipeline (PostgreSQL + pgvector and OpenRouter), with per-student learning preferences, a Kahoot-style quiz with guild rankings and reward roles, and 3-layer prompt-injection defense. **by [@lsilveirab39](https://github.com/lsilveirab39)**
   
 ---
 
